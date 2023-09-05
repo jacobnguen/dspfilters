@@ -1,3 +1,6 @@
+
+https://www.hackster.io/whitney-knitter/dsp-for-fpga-simple-fir-filter-in-verilog-91208d#overview
+
 This repository is designed to hold a variety of demonstration filters.
 These filters will be discussed and used as examples on
 the [ZipCPU blog at zipcpu.com](http://zipcpu.com).  If you watch carefully,
